@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [satvikkaurav.vercel.app](satvikkaurav.vercel.app)
+- 👨‍💻 All of my projects are available at [satvikkaurav.vercel.app](https://satvikkaurav.vercel.app)
 
 - 📫 How to reach me **satvikkaurav10@gmail.com**
 
