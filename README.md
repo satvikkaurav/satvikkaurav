@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikkaurav&label=Profile%20views&color=0e75b6&style=flat" alt="satvikkaurav" /> </p>
 
-- 🔭 I’m currently working on **Asimov Robotics Club Website**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 All of my projects are available at [satvikkaurav.vercel.app](https://satvikkaurav.vercel.app)
+- 👨‍💻 All of my projects are available at [satvik.vercel.app](https://satvik.vercel.app)
 
 - 📫 How to reach me **satvikkaurav10@gmail.com**
 
